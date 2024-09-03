@@ -1,0 +1,119 @@
+.principal{
+    width: 100px;
+    left: 100px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+
+}
+.cara{
+    background-color: orangered;
+    width: 450px;
+    height: 450px;
+    border-radius: 100%;
+    position: relative;
+    top: 130px;
+    left: 25px;
+}
+.ojo1{
+    background-color: yellow;
+    position: absolute;
+    width: 100px;
+    height: 150px;
+    border-radius: 100%;
+    top: 80px;
+    left: 70px;
+
+}
+.pupila1{
+    background-color: black;
+    position: absolute;
+    width: 50px;
+    height: 90px;
+    border-radius: 100%;
+    top: 50px;
+    left: 20px;
+}
+.ojo2{
+    background-color: yellow;
+    position: absolute;
+    width: 100px;
+    height: 150px;
+    border-radius: 100%;
+    top: 80px;
+    right: 70px;
+
+}
+.pupila2{
+    background-color: black;
+    position: absolute;
+    width: 50px;
+    height: 90px;
+    border-radius: 100%;
+    top: 50px;
+    left: 20px;
+}
+.boca{
+    background-color: chartreuse;
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    border-radius: 100%;
+    top: 280px;
+    left: 80px;
+
+}
+.boca1{
+    background-color: black;
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    border-radius: 100%;
+    top: 25px;
+    left: 50px;
+}
+.sombrero1{
+    background-color: purple;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 10px;
+    left: 150px;
+}
+.sombrero2{
+    background-color: purple;
+    width: 500px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 70px;
+}
+.corb1{
+    background-color: green;
+    width: 210px;
+    height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    top: 550px;
+    left: 40px;
+}.corb2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 170px;
+    left: 190px;
+    top: 540px;
+}.corb3{
+    background-color: green;
+    width: 210px;
+    height: 80px;
+    border-radius: 100%;
+    position: absolute;
+    top: 550px;
+    left: 240px;
+}
+.p{
+    top: 20px;
+}
